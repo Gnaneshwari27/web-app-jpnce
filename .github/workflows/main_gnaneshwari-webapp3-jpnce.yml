@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'Gnaneshwari-webapp3-jpnce'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_5B72D13A6BD64EE58CC6DF62648A28F0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_EE1C0816B56047D1828D9E1634ACB010 }}
